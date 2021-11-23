@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "owner": "903323939172921416",
+        "prefix": ".",
+        "BotStatus": "Tasty",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "912761198871724073",
+            "log": "912761203007307783",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "912761198825582613",
+            "roles": "912761198792044595",
+            "log": "912761203263168588",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "912761198825582613",
+            "roles": "912761198792044596",
+            "log": "912761203263168587",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "912761198825582613",
+            "log": "912761203263168583"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "912761203548377104",
+        "voicelog": "912761205943332874",
+        "taglog": "912761205943332878"
+    },
+    "roles": {
+        "boosterrole": "912761198800420944",
+        "viprole": "912761198792044603",
+        "designerrole": "912761198741717016",
+        "musiciansrole": "912761198741717020",
+        "team": "912761198792044600",
+        "sponsored": "912761198854938656"
+    },
+    "channels": {
+        "chat": "912761200075493401",
+        "voicechannel": "912761199819624496",
+        "welcomechannel": "912761198884302942",
+        "rules": "912761199261798461"
+    },
+    "parents": {
+        "publicparents": "912761203263168585"
+    },
+    "registration": {
+        "unregistered": "912761198729113647",
+        "man": ["912761198750081068", "912761198653632589"],
+        "woman": ["912761198750081067", "912761198636859460L"],
+        "staff": "912761198812991514",
+        "GuilDTag": "⟐",
+        "TagSymbol": "⟐",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "912761198729113648",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "912761198750081068",
+        "onewoman": "912761198750081067",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "912761198636859452",
+        "GuilDName": "Metanor #Başlangıç",
+        "GuildOwnerRole": ["912761198871724074"]
+    },
+    "emojis": {
+        "tada": "912774776920109116",
+        "yes": "912774936957964361",
+        "no": "912774929915727952"
+    },
+    "buttons": {
+        "giveaway": "912761198729113640",
+        "activity": "912761198720716850"
+    }
+}
